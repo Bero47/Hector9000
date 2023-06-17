@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Einleitung}{3}{}%
+\contentsline {section}{\numberline {2}Materialliste}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Sonstige Teile}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Teileliste Arm}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Teileliste Display}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Teileliste Glocke}{5}{}%
+\contentsline {subsection}{\numberline {2.5}Teileliste Pumpe}{5}{}%
+\contentsline {subsection}{\numberline {2.6}Teileliste Stopfen}{5}{}%
+\contentsline {subsection}{\numberline {2.7}Teileliste Ventile}{6}{}%
+\contentsline {subsection}{\numberline {2.8}Teileliste Waage}{6}{}%
+\contentsline {section}{\numberline {3}Hector 9000 Aufbau}{8}{}%
+\contentsline {subsection}{\numberline {3.1}Frontansicht}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Hinterseite}{8}{}%
