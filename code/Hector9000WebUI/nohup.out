@@ -1,0 +1,3 @@
+[23987:23987:0531/172826.336761:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY
+[23987:23987:0531/172826.337105:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.
+[24041:24041:0531/173236.516342:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
