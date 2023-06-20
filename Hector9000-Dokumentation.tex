@@ -215,7 +215,110 @@
 	\newpage
 	\section{Hardware}
 	
+	\subsection{HX711 Gewichtssensor}
+
+	\begin{center}
+	\includegraphics[scale=0.2]{hx711}
+	\end{center}
 	
+	\begin{itemize}
+	\item GND
+	\item DOUT
+	\item SCK
+	\item 5V
+	\end{itemize}
+
+	\newpage	
+	
+	\subsection{A4988 Stepper Motor Driver}
+
+	\begin{center}
+	\includegraphics[scale=0.3]{pololu}
+	\end{center}
+	
+	\begin{itemize}
+	\item ENABLE
+	\item MS1
+	\item Ms2
+	\item MS3
+	\item RESET
+	\item SLEEP
+	\item STEP
+	\item DIR
+	\item VMOT
+	\item GND
+	\item 2B
+	\item 2A
+	\item 1A
+	\item 1B
+	\item VDD
+	\end{itemize}
+	
+	\subsection{A4988 Stepper Motor Driver}
+
+	\begin{center}
+	\includegraphics[scale=0.5]{pca9685}
+	\end{center}
+	
+	\begin{itemize}
+	\item GND
+	\item OE
+	\item SCK
+	\item SDA
+	\item VCC
+	\item V+
+	\end{itemize}
+
+	\newpage	
+	
+	\subsection{5V Relais}
+
+	\begin{center}
+	\includegraphics[scale=0.2]{relais}
+	\end{center}
+	
+	\begin{itemize}
+	\item VDD
+	\item IN
+	\item GND
+	\end{itemize}
+	
+	\subsection{Panasonic Lichtschrank}
+
+	\begin{center}
+	\includegraphics[scale=0.1]{lichtschranke}
+	\end{center}
+	
+	\begin{itemize}
+	\item VDD
+	\item DATA
+	\item GND
+	\end{itemize}
+	
+	\newpage
+	
+	\section{Installation}	
+	
+	\subsection{Wichtige Hinweise bezüglich der Installation}
+	
+	\begin{enumerate}
+	\item Den \textbf{Ground} von Raspberry PI mit dem \textbf{Ground} vom Netzteil zusammenfügen
+	\item GPIO header per \textbf{Reihenklemmen z.B. LL} auf Hutschiene setzten, sodass kein Kabelchaos ensteht
+	\item Sensorkabel \textbf{CAT 5} Adernpaare benutzen	
+	\item Servokabel 12x3 Adern (VCC,GND,PWM) zusammengebündelt versteckt verlegen 
+	\end{enumerate}
+	
+	\newpage
+	
+	\section{Software}
+	
+	\paragraph{This is a paragraph} 
+	
+	\section*{Hello man}
+
+	\section{Test}
+	
+
 	\begin{lstlisting}[language=bash]
 
 
